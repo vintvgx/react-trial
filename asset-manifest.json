@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vintvgx/react-trial/static/css/main.5dae33b1.chunk.css",
-    "main.js": "/vintvgx/react-trial/static/js/main.4f45908c.chunk.js",
-    "main.js.map": "/vintvgx/react-trial/static/js/main.4f45908c.chunk.js.map",
-    "runtime-main.js": "/vintvgx/react-trial/static/js/runtime-main.0c27cc80.js",
-    "runtime-main.js.map": "/vintvgx/react-trial/static/js/runtime-main.0c27cc80.js.map",
-    "static/js/2.7290169c.chunk.js": "/vintvgx/react-trial/static/js/2.7290169c.chunk.js",
-    "static/js/2.7290169c.chunk.js.map": "/vintvgx/react-trial/static/js/2.7290169c.chunk.js.map",
-    "static/js/3.cf8c0bc6.chunk.js": "/vintvgx/react-trial/static/js/3.cf8c0bc6.chunk.js",
-    "static/js/3.cf8c0bc6.chunk.js.map": "/vintvgx/react-trial/static/js/3.cf8c0bc6.chunk.js.map",
-    "index.html": "/vintvgx/react-trial/index.html",
-    "static/css/main.5dae33b1.chunk.css.map": "/vintvgx/react-trial/static/css/main.5dae33b1.chunk.css.map",
-    "static/js/2.7290169c.chunk.js.LICENSE.txt": "/vintvgx/react-trial/static/js/2.7290169c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vintvgx/react-trial/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-trial/static/css/main.d02da490.chunk.css",
+    "main.js": "/react-trial/static/js/main.68459d75.chunk.js",
+    "main.js.map": "/react-trial/static/js/main.68459d75.chunk.js.map",
+    "runtime-main.js": "/react-trial/static/js/runtime-main.5c2ae08c.js",
+    "runtime-main.js.map": "/react-trial/static/js/runtime-main.5c2ae08c.js.map",
+    "static/js/2.7290169c.chunk.js": "/react-trial/static/js/2.7290169c.chunk.js",
+    "static/js/2.7290169c.chunk.js.map": "/react-trial/static/js/2.7290169c.chunk.js.map",
+    "static/js/3.cf8c0bc6.chunk.js": "/react-trial/static/js/3.cf8c0bc6.chunk.js",
+    "static/js/3.cf8c0bc6.chunk.js.map": "/react-trial/static/js/3.cf8c0bc6.chunk.js.map",
+    "index.html": "/react-trial/index.html",
+    "static/css/main.d02da490.chunk.css.map": "/react-trial/static/css/main.d02da490.chunk.css.map",
+    "static/js/2.7290169c.chunk.js.LICENSE.txt": "/react-trial/static/js/2.7290169c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-trial/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c27cc80.js",
+    "static/js/runtime-main.5c2ae08c.js",
     "static/js/2.7290169c.chunk.js",
-    "static/css/main.5dae33b1.chunk.css",
-    "static/js/main.4f45908c.chunk.js"
+    "static/css/main.d02da490.chunk.css",
+    "static/js/main.68459d75.chunk.js"
   ]
 }
