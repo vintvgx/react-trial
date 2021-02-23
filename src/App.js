@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="intro">
       <h1>This is the React website trial</h1>
       <p>I am trying to see if this works so bare with me. Thank you.</p>
     </div>
